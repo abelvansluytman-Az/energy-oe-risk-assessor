@@ -12,6 +12,11 @@ It computes a weighted score (60% environmental, 40% cybersecurity) and provides
 ## Motivation
 Built by a legal expert in environmental compliance and regulation in Venezuela, blending real-world investigative experience with self-taught cybersecurity skills. Created to showcase transferable analytical abilities for Operational Excellence roles in energy.
 
+## Sample Outputs
+![Low Risk Example](screenshot-low.png)
+![Medium Risk Example](screenshot-medium.png)
+![High Risk Example](screenshot-high.png)
+
 ## How to Run
 ```bash
 python main.py
